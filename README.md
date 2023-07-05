@@ -1,4 +1,7 @@
-# uas_pbkmuja
+# UAS LAB PBK
+# NAMA : AL MUJAADILAH MAULANA
+# NPM : 213510324
+# SMT : 4(A)
 
 ## Project setup
 ```
